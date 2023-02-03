@@ -1,5 +1,5 @@
 # Temperature Converter
-Temperature Converter is an app that I have developed to practice what I am learnign in my Android Development jouney. 
+Temperature Converter is an app that I have developed to practice what I am learning in my Android Development journey. 
 
 
 
