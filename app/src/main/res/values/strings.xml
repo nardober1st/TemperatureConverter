@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="btn_convert">Convert</string>
+    <string name="txt_in_c">Celsius to Fahrenheit</string>
+    <string name="txt_or">Or</string>
+    <string name="txt_in_f">Fahrenheit to Celsius</string>
+    <string name="hint_celsius">Degrees Celsius</string>
+    <string name="hint_fahrenheit">Degrees Fahrenheit</string>
+    <string name="txt_welcome">Welcome to your new favorite Temperature Converter App!</string>
+    <string name="txt_options">Choose whether to convert from C to F or F to C</string>
+    <string name="txt_result">Result = </string>
+</resources>
