@@ -26,7 +26,7 @@ Temperature Converter is an app that I have developed to practice what I am lear
 - Update App's design
 
 ## Author
-Bernardo Oechsler (follow me on [Linkeding](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
+Bernardo Oechsler (follow me on [Linkedin](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
 
 ## License
 ```
