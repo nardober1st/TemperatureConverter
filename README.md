@@ -5,7 +5,7 @@ Temperature Converter is an app that I have developed to practice what I am lear
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/Screenshots/mainActivityss.png" width="260">&emsp;<img src="/result/image2.png" width="260">&emsp;<img src="/result/image3.png" width="260">
+<img src="/Screenshots/mainActivity.png" width="260">&emsp;<img src="/Screenshots/celsiusActivityss.png" width="260">&emsp;<img src="/Screenshots/fahrenheitActivity.png" width="260">
 
 ## Technologies
 * Kotlin
@@ -26,13 +26,13 @@ Temperature Converter is an app that I have developed to practice what I am lear
 - Update App's design
 
 ## Author
-Roque Buarque Junior (follow me on [Twitter](https://twitter.com/roquebuarque))
+Bernardo Oechsler (follow me on [Linkeding](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Roque Buarque Junior
+Copyright (c) 2023 Bernardo Oechsler
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
