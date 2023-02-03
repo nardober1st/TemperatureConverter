@@ -5,7 +5,7 @@ Temperature Converter is an app that I have developed to practice what I am lear
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/image1.png" width="260">&emsp;<img src="/result/image2.png" width="260">&emsp;<img src="/result/image3.png" width="260">
+<img src="/TemperatureConverter/mainActivityss.png" width="260">&emsp;<img src="/result/image2.png" width="260">&emsp;<img src="/result/image3.png" width="260">
 
 ## Technologies
 * Kotlin
